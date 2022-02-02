@@ -25,6 +25,9 @@ let colidiu = false;
 let meusPontos = 0;
 let pontosDoOponente = 0;
 
+//Imagens
+let imagemQuadra;
+
 //sons
 let ponto;
 let raquetada;
@@ -33,6 +36,7 @@ let trilha;
 let chanceDeErrar = 0;
 
 function preload(){
+  imagemQuadra = loadImage("background.png");
   trilha = loadSound("trilha.mp3");
   raquetada = loadSound("raquetada.mp3");
   ponto = loadSound("ponto.mp3");
@@ -45,7 +49,7 @@ function setup() {
 
 function draw() {
   //cenario
-  background(0);
+  background(imagemQuadra);
   
   //bolinha
   mostraBolinha();
