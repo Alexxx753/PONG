@@ -24,7 +24,7 @@
 
   
  <h1 id="previa" align="center">
-  <img height="20%" width="60%" src="src/image/readme.gif" alt="GIF do Projeto"/>
+  <img height="20%" width="60%" src="image/readme.gif" alt="GIF do Projeto"/>
 <h1/>
   <hr>
   
@@ -47,5 +47,5 @@
  - JavaScript
     <hr>
     
-  <p id="autor">De ALEX🤘 <a href='https://www.linkedin.com/in/alexsales-dev/'>Veja meu linkedin<a></p>
+  <p id="autor">De ALEX SALES🤘 <a href='https://www.linkedin.com/in/alexsales-dev/'>Veja meu linkedin<a></p>
 
