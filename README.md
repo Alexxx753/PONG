@@ -22,10 +22,9 @@
 - [x] Multiplayer local<br>
 - [x] Fim de jogo<br>
 
-  
- <h1 id="previa" align="center">
+<h1 id="previa" align="center">
   <img height="20%" width="60%" src="image/readme.gif" alt="GIF do Projeto"/>
-<h1/>
+</h1>
   <hr>
   
 <h2 id="pre-requisitos">🖥️Pré-requisitos</h2>
